@@ -1,0 +1,24 @@
+(kicad_sch (version 20211123) (generator eeschema)
+  (uuid "1781870909563-sch-uuid-4752-9b2f-38a37c")
+  (paper "A4")
+  (title_block
+    (title "ProjectForge AI Schematic: line follower robot ")
+    (company "ProjectForge AI Platform")
+    (comment 1 "Generated on: 19/6/2026")
+  )
+  (symbol (lib_id "MCU_Module:Arduino_Uno_–_1_IR_Sensor_Module_(Line_Tracking_Sensor)_–_2_or_more_L298N_Motor_Driver_Module_–_1_BO_DC_Motors_–_2_Robot_Wheels_–_2_Caster_Wheel_–_1_Robot_Chassis_–_1_Battery_Pack_(7.4V–12V)_–_1_Jumper_Wires_Switch_(Optional)") (at 50 100 0)
+    (in_bom yes) (on_board yes)
+    (uuid "1781870909563-symbol-0-uuid")
+    (property "Reference" "U1" (id 0) (at 50 92 0))
+    (property "Value" "Arduino Uno – 1
+IR Sensor Module (Line Tracking Sensor) – 2 or more
+L298N Motor Driver Module – 1
+BO DC Motors – 2
+Robot Wheels – 2
+Caster Wheel – 1
+Robot Chassis – 1
+Battery Pack (7.4V–12V) – 1
+Jumper Wires
+Switch (Optional)" (id 1) (at 50 108 0))
+  )
+)

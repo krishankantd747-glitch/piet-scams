@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "version": 1
+  },
+  "project": {
+    "title": "Line Follower Robot",
+    "company": "ProjectForge AI",
+    "designer": "ProjectForge AI"
+  },
+  "pcbnew": {
+    "last_board_thickness": 1.6
+  }
+}

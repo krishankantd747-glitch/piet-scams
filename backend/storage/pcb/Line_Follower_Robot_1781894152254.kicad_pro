@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "version": 1,
+    "filename": "Line_Follower_Robot.kicad_pro"
+  },
+  "project": {
+    "title": "Line Follower Robot",
+    "company": "ProjectForge AI",
+    "designer": "ProjectForge AI Platform",
+    "date": "2026-06-19",
+    "revision": "Rev 1.0"
+  },
+  "pcbnew": {
+    "last_board_thickness": 1.6,
+    "drc_exclusions": []
+  },
+  "schematic": {
+    "legacy_lib_dir": "",
+    "legacy_lib_list": []
+  }
+}

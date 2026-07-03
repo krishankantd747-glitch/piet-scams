@@ -1,0 +1,7 @@
+"Reference","Value","Designator","Footprint","Quantity","Unit Cost (Est)"
+"U1","Arduino Uno","IC1","DIP-8_W7.62mm","1","₹250"
+"U2","L298N","IC2","DIP-12_W7.62mm","1","₹400"
+"U3","IR Sensor","IC3","DIP-16_W7.62mm","1","₹550"
+"U4","IR Sensor","IC4","DIP-20_W7.62mm","1","₹700"
+"U5","DC Motor","IC5","DIP-24_W7.62mm","1","₹850"
+"U6","DC Motor","IC6","DIP-28_W7.62mm","1","₹1000"

@@ -1,0 +1,37 @@
+(kicad_sch (version 20211123) (generator eeschema)
+  (uuid "1781939912092-sch-uuid-9b2f-38a37c")
+  (paper "A4")
+  (title_block
+    (title "ardiuno uno")
+    (company "ProjectForge AI Platform")
+    (comment 1 "Generated: 20/6/2026")
+    (comment 2 "Tool: ProjectForge AI v1.0")
+  )
+  (symbol (lib_id "Device:Arduino_Uno__1_IR_Sensor_Module_Line_Tracking_Sensor__2_or_more_L298N_Motor_Driver_Module__1_BO_DC_Motors__2_Robot_Wheels__2_Caster_Wheel__1_Robot_Chassis__1_Battery_Pack_74V12V__1_Jumper_Wires_Switch_Optional") (at 50 100 0)
+    (in_bom yes) (on_board yes)
+    (uuid "1781939912092-symbol-0-Arduin")
+    (property "Reference" "U1" (id 0) (at 50 92 0))
+    (property "Value" "Arduino Uno – 1
+IR Sensor Module Line Tracking Sensor – 2 or more
+L298N Motor Driver Module – 1
+BO DC Motors – 2
+Robot Wheels – 2
+Caster Wheel – 1
+Robot Chassis – 1
+Battery Pack 7.4V–12V – 1
+Jumper Wires
+Switch Optional" (id 1) (at 50 108 0))
+    (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 50 116 0) (hide yes))
+    (property "Datasheet" "~" (id 3) (at 50 124 0) (hide yes))
+  )
+  (symbol (lib_id "power:VCC") (at 20 80 0)
+    (uuid "1781939912092-power-vcc")
+    (property "Reference" "#PWR01" (id 0) (at 20 72 0))
+    (property "Value" "VCC" (id 1) (at 20 88 0))
+  )
+  (symbol (lib_id "power:GND") (at 20 130 0)
+    (uuid "1781939912092-power-gnd")
+    (property "Reference" "#PWR02" (id 0) (at 20 122 0))
+    (property "Value" "GND" (id 1) (at 20 138 0))
+  )
+)

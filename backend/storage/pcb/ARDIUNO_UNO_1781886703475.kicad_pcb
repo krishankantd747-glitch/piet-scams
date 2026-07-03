@@ -1,0 +1,25 @@
+(kicad_pcb (version 20211014) (generator pcbnew)
+  (general
+    (thickness 1.6)
+  )
+  (paper "A4")
+  (title_block
+    (title "ProjectForge AI PCB Layout: ARDIUNO UNO")
+    (company "ProjectForge AI Platform")
+    (comment 1 "Auto routed modular layout")
+  )
+  (footprint "Package_DIP:DIP-8_W7.62mm" (layer "F.Cu") (at 60 80 0)
+    (uuid "1781886703475-footprint-0-uuid")
+    (property "Reference" "U1" (at 60 72 0))
+    (property "Value" "Arduino Uno – 1
+IR Sensor Module (Line Tracking Sensor) – 2 or more
+L298N Motor Driver Module – 1
+BO DC Motors – 2
+Robot Wheels – 2
+Caster Wheel – 1
+Robot Chassis – 1
+Battery Pack (7.4V–12V) – 1
+Jumper Wires
+Switch (Optional)" (at 60 88 0))
+  )
+)

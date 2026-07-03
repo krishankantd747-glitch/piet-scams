@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "version": 1,
+    "filename": "IoT_Based_Industrial_Safety_Monitoring_System_.kicad_pro"
+  },
+  "project": {
+    "title": "IoT-Based Industrial Safety Monitoring System.",
+    "company": "ProjectForge AI",
+    "designer": "ProjectForge AI Platform",
+    "date": "2026-06-23",
+    "revision": "Rev 1.0"
+  },
+  "pcbnew": {
+    "last_board_thickness": 1.6,
+    "drc_exclusions": []
+  },
+  "schematic": {
+    "legacy_lib_dir": "",
+    "legacy_lib_list": []
+  }
+}
